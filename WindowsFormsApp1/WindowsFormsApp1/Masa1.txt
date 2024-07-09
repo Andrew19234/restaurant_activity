@@ -1,0 +1,3 @@
+﻿Numar: 1
+Locatie: Locație 1
+Capacitate: 4
